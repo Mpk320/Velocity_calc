@@ -4,4 +4,4 @@ time = input("input Time(s): ")
 
 result = int(position) / int(time)
 
-print("Velocity = " + str(result))
+print("Velocity(m/s) = " + str(result))
