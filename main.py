@@ -1,6 +1,6 @@
 
-position = input("Input Change in position: ")
-time = input("input Time: ")
+position = input("Input Change in position(m): ")
+time = input("input Time(s): ")
 
 result = int(position) / int(time)
 
